@@ -1,0 +1,6 @@
+
+*.db
+.venv
+*.pyc
+__pycache__
+todo.db
